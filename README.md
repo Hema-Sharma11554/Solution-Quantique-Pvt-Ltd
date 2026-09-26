@@ -43,7 +43,7 @@ End-to-end Sales Performance Analysis for Solution Quantique Pvt Ltd | Jan-Dec 2
 
 ## 🛠️ Tools & DAX Used
 
-*   **Power BI Desktop, Power Query**
+*   **Power BI Desktop, Power Query, DAX Studio, SSMS**
 *   **Key DAX:** YTD Revenue, MoM Growth %, Profit Margin %, Top Pair (TOPN + MAXX + ALLSELECTED), AOV, Stock Remaining Days = Current Stock / Daily Units Sold
 *   Fixed Top Pair Context Issue: Ensured same table + ALL() for card vs bar chart consistency
 
