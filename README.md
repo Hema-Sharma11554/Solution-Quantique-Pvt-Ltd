@@ -7,14 +7,14 @@ End-to-end Sales Performance Analysis for Solution Quantique Pvt Ltd | Jan-Dec 2
 
 📸 Dashboard Preview
 
-1. Home - Executive Summary
+# 1. Home - Executive Summary
 ![Home](SQ1.png)
-2. Product Performance
-![Product](Dashboard_Screenshots/SQ2.png)
+## 2. Product Performance
+![Product](SQ2.png)
 ### 3. Customer Insights
-![Customer](Dashboard_Screenshots/SQ3.png)
+![Customer](SQ3.png)
 ### 4. Sales Rep Performance
-![Sales Rep](Dashboard_Screenshots/SQ4.png)
+![Sales Rep](SQ4.png)
 
 ## 📊 Verified KPIs
 
@@ -52,6 +52,10 @@ End-to-end Sales Performance Analysis for Solution Quantique Pvt Ltd | Jan-Dec 2
 *   `SuperStore_Sales.pbix` - Power BI File
 *   `Dataset.xlsx` - Raw Data
 *   `Dashboard_Screenshots/` - 4 Pages
+
+Created By : Hema Sharma 
+             Business Analyst Consultant
+             
 
 ## 🚀 How to Use
 Open .pbix > Refresh if needed > Interact with Month slicer (scrollable Jan-Dec) and Region filters.
