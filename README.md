@@ -53,7 +53,8 @@ End-to-end Sales Performance Analysis for Solution Quantique Pvt Ltd | Jan-Dec 2
 *   `Dataset.xlsx` - Raw Data
 *   `Dashboard_Screenshots/` - 4 Pages
 
-Created By : Hema Sharma 
+Created By : Hema Sharma I
+
              Business Analyst Consultant
              
 
