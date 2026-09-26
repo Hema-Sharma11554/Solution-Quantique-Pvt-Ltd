@@ -1,15 +1,15 @@
-# 🛒 SuperStore Sales Dashboard 2025 | Power BI
+🛒 SuperStore Sales Dashboard 2025 | Power BI
 
 End-to-end Sales Performance Analysis for Solution Quantique Pvt Ltd | Jan-Dec 2025
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Used-blue)
 
-## 📸 Dashboard Preview
+📸 Dashboard Preview
 
-### 1. Home - Executive Summary
-![Home](Dashboard_Screenshots/SQ1.png)
-### 2. Product Performance
+1. Home - Executive Summary
+![Home](SQ1.png)
+2. Product Performance
 ![Product](Dashboard_Screenshots/SQ2.png)
 ### 3. Customer Insights
 ![Customer](Dashboard_Screenshots/SQ3.png)
